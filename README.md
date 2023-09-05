@@ -13,7 +13,7 @@
 ## Installation :
 
   ```html
-wget https://raw.githubusercontent.com/xiihaiqal/AutoScriptVPS/master/AutoScript && bash AutoScript
+wget https://raw.githubusercontent.com/PhoenixxZ2023/AutoScriptVPS/master/AutoScript && bash AutoScript
   ```
 <h3 align="center">Screenshots</h3>
 <p align="center">
